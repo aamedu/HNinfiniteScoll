@@ -6,6 +6,7 @@ Related blog post.
 Tools Used
 
 Yeoman
+
 Hacker News API
 Angularjs
 Build
