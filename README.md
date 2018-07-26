@@ -1,11 +1,11 @@
-hn-ng
-Hacker News made in angularjs.
+HNinfiniteScroll
+Hacker News Infinite Scroll in javascript.
 
-Related blog post.
 
 
 
 Tools Used
+
 
 Yeoman
 
